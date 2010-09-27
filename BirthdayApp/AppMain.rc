@@ -1,0 +1,37 @@
+#include "resource.h"
+
+// The User Interface bitmap resources
+IDI_ICONSMALL ICON "Res\\MainIcon.ico"
+IDI_ICON ICON "Res\\MainIcon.ico"
+
+// Custom UI bitmaps
+IDB_STDBTNBASE BITMAP "Res\\Stdbtnbase.bmp" // base bitmap for a standard button.
+IDB_STDBTNHIGH BITMAP "Res\\StdbtnbaseHL.bmp" // base bitmap for a highlighted standard button.
+IDB_STDBTNDOWN BITMAP "Res\\StdbtnbaseDN.bmp" // base bitmap for a mouse down standard button.
+
+
+IDB_DIAGHEADER BITMAP "Res\\Diagheader.bmp"
+IDB_VSCROLLBASE BITMAP "Res\\VScrollbase.bmp" // bitmap for a vertical scrollbar
+
+IDB_SLIDE1 BITMAP "Res\\Slide1.bmp"
+IDB_SLIDE2 BITMAP "Res\\Slide2.bmp"
+IDB_SLIDE3 BITMAP "Res\\Slide3.bmp"
+IDB_SLIDE4 BITMAP "Res\\Slide4.bmp"
+IDB_SLIDE5 BITMAP "Res\\Slide5.bmp"
+IDB_SLIDE6 BITMAP "Res\\Slide6.bmp"
+IDB_SLIDE7 BITMAP "Res\\Slide7.bmp"
+IDB_SLIDE8 BITMAP "Res\\Slide8.bmp"
+IDB_SLIDE9 BITMAP "Res\\Slide9.bmp"
+IDB_SLIDE10 BITMAP "Res\\Slide10.bmp"
+IDB_SLIDE11 BITMAP "Res\\Slide11.bmp"
+IDB_SLIDE12 BITMAP "Res\\Slide12.bmp"
+IDB_SLIDE13 BITMAP "Res\\Slide13.bmp"
+IDB_SLIDE14 BITMAP "Res\\Slide14.bmp"
+IDB_SLIDE15 BITMAP "Res\\Slide15.bmp"
+IDB_SLIDE16 BITMAP "Res\\Slide16.bmp"
+IDB_SLIDE17 BITMAP "Res\\Slide17.bmp"
+IDB_SLIDE18 BITMAP "Res\\Slide18.bmp"
+IDB_SLIDE19 BITMAP "Res\\Slide19.bmp"
+IDB_SLIDE20 BITMAP "Res\\Slide20.bmp"
+IDB_SLIDE21 BITMAP "Res\\Slide21.bmp"
+IDB_SLIDE22 BITMAP "Res\\Slide22.bmp"
